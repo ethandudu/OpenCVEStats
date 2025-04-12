@@ -1,0 +1,4 @@
+mariadb
+python-dotenv
+requests
+python-dateutil
